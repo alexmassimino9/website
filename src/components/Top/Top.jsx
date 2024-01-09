@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./Top.module.css";
 import { Button } from "../common";
-import resume from "../../assets/AmassiminoResume.pdf";
+import resume from "../../assets/AMassiminoResume.pdf";
 const Top = () => {
   return (
     <section className={styles.container}>

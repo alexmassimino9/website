@@ -17,11 +17,12 @@ const About = () => {
             visualizations, enhancing user understanding and interaction with
             robust user interfaces. My technical toolkit is centered around the
             MERN stack, enabling me to construct robust, scalable applications.
-            Additionally, my experience with WordPress and AWS further broadens
-            my capabilities in delivering comprehensive digital solutions.
-            Beyond my professional pursuits, I am passionate about soccer,
-            dedicating time to coaching youth teams, a commitment that reflects
-            my enthusiasm for team building, collaboration and competitiveness.
+            Additionally, my experience with React Native, WordPress and AWS
+            further broadens my capabilities in delivering comprehensive digital
+            solutions. Beyond my professional pursuits, I am passionate about
+            soccer, dedicating time to coaching youth teams, a commitment that
+            reflects my enthusiasm for team building, collaboration and
+            competitiveness.
           </p>
           <Button title="Contact Me" href={`/#contact`} />
         </div>

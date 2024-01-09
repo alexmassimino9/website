@@ -32,7 +32,7 @@ const Tech = () => {
       img: "./js.png",
     },
     {
-      title: "Chart.js",
+      title: "React Native",
       img: "./js.png",
     },
     {
